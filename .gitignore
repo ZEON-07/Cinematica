@@ -1,0 +1,38 @@
+# Compiled Java bytecode
+bin/
+*.class
+
+# SQLite Database and journal files (auto-generated at runtime)
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+hs_err_pid*.log
